@@ -1,4 +1,3 @@
-*  Lacework FortiCNAPP default ScanProfile configuration:
 default:
     iac:
         enabled: true
